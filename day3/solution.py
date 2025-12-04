@@ -25,3 +25,4 @@ for bank in banks:
     total_joltage += max_joltage(bank)
 
 print(total_joltage)
+input.close()

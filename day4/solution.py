@@ -30,3 +30,4 @@ for i in range(len(grid)):
             accessable_roll += 1
 
 print(accessable_roll)
+input.close()
